@@ -96,10 +96,6 @@ current_focus:
   <img src="./profile/stats.svg" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-rust.vercel.app/?username=hisaomasaki&theme=tokyonight&no-frame=true&column=7" />
-</p>
-
 ---
 
 ## 🚀 Projects & Business
