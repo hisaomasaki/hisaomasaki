@@ -93,12 +93,12 @@ current_focus:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hisaomasaki&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hisaomasaki&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hisaomasaki&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=hisaomasaki&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hisaomasaki&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=hisaomasaki&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
 ---
@@ -130,8 +130,8 @@ current_focus:
 
 **訪問看護ステーション**
 
-精神科に特化したヘルスケアサービス
-テクノロジー × 温かみのあるケア
+身体とメンタルの両面をケアする訪問看護
+IT × 温かみのある在宅ケア
 
 <img src="https://img.shields.io/badge/Since-2024-4776E6?style=flat-square" />
 <img src="https://img.shields.io/badge/MS9%20Inc.-Healthcare%20Division-8E54E9?style=flat-square" />
