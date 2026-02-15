@@ -94,7 +94,6 @@ current_focus:
 
 <p align="center">
   <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/streak.svg" height="170" />
 </p>
 
 <p align="center">
