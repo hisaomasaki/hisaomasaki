@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ms9.co.jp/"><img src="https://img.shields.io/badge/Website-ms9.co.jp-4776E6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/hisaomasaki"><img src="https://img.shields.io/badge/GitHub-hisaomasaki-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ms9.co.jp/" target="_blank"><img src="https://img.shields.io/badge/Website-ms9.co.jp-4776E6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/hisaomasaki" target="_blank"><img src="https://img.shields.io/badge/GitHub-hisaomasaki-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -114,7 +114,7 @@ current_focus:
 <img src="https://img.shields.io/badge/Founded-2021-4776E6?style=flat-square" />
 <img src="https://img.shields.io/badge/Location-Japan%20🇯🇵-8E54E9?style=flat-square" />
 
-<a href="https://ms9.co.jp/">
+<a href="https://ms9.co.jp/" target="_blank">
   <img src="https://img.shields.io/badge/Website-ms9.co.jp-4776E6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -131,7 +131,7 @@ IT × 温かみのある在宅ケア
 <img src="https://img.shields.io/badge/Since-2024-4776E6?style=flat-square" />
 <img src="https://img.shields.io/badge/MS9%20Inc.-Healthcare%20Division-8E54E9?style=flat-square" />
 
-<a href="https://yulier.care/">
+<a href="https://yulier.care/" target="_blank">
   <img src="https://img.shields.io/badge/Website-yulier.care-8E54E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -240,8 +240,8 @@ IT × 温かみのある在宅ケア
 </p>
 
 <p align="center">
-  <a href="https://ms9.co.jp/"><img src="https://img.shields.io/badge/Website-ms9.co.jp-4776E6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/hisaomasaki"><img src="https://img.shields.io/badge/GitHub-hisaomasaki-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ms9.co.jp/" target="_blank"><img src="https://img.shields.io/badge/Website-ms9.co.jp-4776E6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/hisaomasaki" target="_blank"><img src="https://img.shields.io/badge/GitHub-hisaomasaki-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
