@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hisao%20Masaki&fontSize=50&fontColor=ffffff&desc=CEO%20%26%20CTO%20%40%20MS9%20Inc.&descSize=20&descAlignY=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hisao%20Masaki&fontSize=50&fontColor=ffffff&desc=CEO%20%26%20CTO%20%40%20MS9%20Inc.&descSize=20&descAlignY=70" width="100%" />
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ current_focus:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hisaomasaki&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hisaomasaki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
   <img src="https://streak-stats.demolab.com/?user=hisaomasaki&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
