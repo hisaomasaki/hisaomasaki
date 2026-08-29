@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hisao Masaki's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 6590, Total PRs: 2715, Total Issues: 56, Contributed to (last year): 24</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 6591, Total PRs: 2716, Total Issues: 56, Contributed to (last year): 24</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 109.58811462351082;
+        stroke-dashoffset: 109.58781333963289;
       }
     }
   
